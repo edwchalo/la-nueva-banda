@@ -1,2 +1,1 @@
-# la-nueva-banda
-equipo de futbol amateur
+este proyecto es una prueba
